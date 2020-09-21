@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/login-form/static/css/main.cc7710ac.chunk.css",
-    "main.js": "/login-form/static/js/main.c250906d.chunk.js",
-    "main.js.map": "/login-form/static/js/main.c250906d.chunk.js.map",
-    "runtime-main.js": "/login-form/static/js/runtime-main.af6c0941.js",
-    "runtime-main.js.map": "/login-form/static/js/runtime-main.af6c0941.js.map",
-    "static/js/2.c83bd36a.chunk.js": "/login-form/static/js/2.c83bd36a.chunk.js",
-    "static/js/2.c83bd36a.chunk.js.map": "/login-form/static/js/2.c83bd36a.chunk.js.map",
-    "index.html": "/login-form/index.html",
-    "precache-manifest.c8a223b9a72f0226a78181588d1b7525.js": "/login-form/precache-manifest.c8a223b9a72f0226a78181588d1b7525.js",
-    "service-worker.js": "/login-form/service-worker.js",
-    "static/css/main.cc7710ac.chunk.css.map": "/login-form/static/css/main.cc7710ac.chunk.css.map",
-    "static/js/2.c83bd36a.chunk.js.LICENSE.txt": "/login-form/static/js/2.c83bd36a.chunk.js.LICENSE.txt",
-    "static/media/check.svg": "/login-form/static/media/check.2824b0b1.svg",
-    "static/media/padlock.svg": "/login-form/static/media/padlock.d964e0b3.svg"
+    "main.css": "/login-app/static/css/main.cc7710ac.chunk.css",
+    "main.js": "/login-app/static/js/main.ccae9e21.chunk.js",
+    "main.js.map": "/login-app/static/js/main.ccae9e21.chunk.js.map",
+    "runtime-main.js": "/login-app/static/js/runtime-main.39befcd4.js",
+    "runtime-main.js.map": "/login-app/static/js/runtime-main.39befcd4.js.map",
+    "static/js/2.ee8cc29c.chunk.js": "/login-app/static/js/2.ee8cc29c.chunk.js",
+    "static/js/2.ee8cc29c.chunk.js.map": "/login-app/static/js/2.ee8cc29c.chunk.js.map",
+    "index.html": "/login-app/index.html",
+    "precache-manifest.00bc3af70039c13c0396798b3f8e4332.js": "/login-app/precache-manifest.00bc3af70039c13c0396798b3f8e4332.js",
+    "service-worker.js": "/login-app/service-worker.js",
+    "static/css/main.cc7710ac.chunk.css.map": "/login-app/static/css/main.cc7710ac.chunk.css.map",
+    "static/js/2.ee8cc29c.chunk.js.LICENSE.txt": "/login-app/static/js/2.ee8cc29c.chunk.js.LICENSE.txt",
+    "static/media/check.svg": "/login-app/static/media/check.2824b0b1.svg",
+    "static/media/padlock.svg": "/login-app/static/media/padlock.d964e0b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af6c0941.js",
-    "static/js/2.c83bd36a.chunk.js",
+    "static/js/runtime-main.39befcd4.js",
+    "static/js/2.ee8cc29c.chunk.js",
     "static/css/main.cc7710ac.chunk.css",
-    "static/js/main.c250906d.chunk.js"
+    "static/js/main.ccae9e21.chunk.js"
   ]
 }
