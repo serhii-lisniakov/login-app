@@ -9,8 +9,8 @@ function App() {
       <Router basename='/login-form'>
         <Switch>
           <Route exact path='/' render={() => <Redirect to='/in'/>}/>
-          <Route exact path='/in' component={LoginForm}/>
-          <Route exact path='/up' component={LoginForm}/>
+          <Route path='/in' component={LoginForm}/>
+          <Route path='/up' component={LoginForm}/>
         </Switch>
       </Router>
     </div>
