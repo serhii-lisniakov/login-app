@@ -6,7 +6,7 @@ import LoginForm from './components/LoginForm/LoginForm';
 function App() {
   return (
     <div className="App">
-      <Router basename='/login-form'>
+      <Router basename='/login-app'>
         <Switch>
           <Route exact path='/' render={() => <Redirect to='/in'/>}/>
           <Route path='/in' component={LoginForm}/>
