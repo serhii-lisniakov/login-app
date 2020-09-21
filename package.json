@@ -1,6 +1,6 @@
 {
-  "homepage": "https://serhii-lisniakov.github.io/login-form/",
-  "name": "login-form",
+  "homepage": "https://serhii-lisniakov.github.io/login-app/",
+  "name": "login-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
